@@ -1,0 +1,20 @@
+{
+  "name": "@wangwenzhang/vue-cli-plugin-ui-base",
+  "version": "0.1.0",
+  "description": "> TODO: description",
+  "author": "pdsuwwz <pdsu.wwz@foxmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdsuwwz/test-vue-cli-plugins.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "jest --colors"
+  },
+  "bugs": {
+    "url": "https://github.com/pdsuwwz/test-vue-cli-plugins/issues"
+  }
+}
