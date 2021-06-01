@@ -1,0 +1,17 @@
+{
+  "useConfigFiles": true,
+  "router": true,
+  "routerHistoryMode": true,
+  "vuex": false,
+  "cssPreprocessor": "less",
+  "packageManager": "yarn",
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-eslint": {
+      "lintOn": ["save", "commit"]
+    },
+    "@pdsuwwz/vue-cli-plugin-ui-base": {},
+    "@pdsuwwz/vue-cli-plugin-ui-cz": {},
+    "@pdsuwwz/vue-cli-plugin-ui-lint": {}
+  }
+}
